@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @opt2050
-- 👀 I’m interested in learing Linux and python but currently i don´t have much time.
+- 👀 I’m interested in learing Linux and Python but currently i don´t have much time.
 - 🌱 I’m currently learning how to use an create a homelab
-- 💞️ I’m looking to collaborate on some project where i can learn some phytonm,Linux and network
+- 💞️ I’m looking to collaborate on some project where i can learn some Phyton,Linux and Networks
 - 📫 How to reach me nahuellignac@gmail.com
 
 <!---
